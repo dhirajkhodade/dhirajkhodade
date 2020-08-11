@@ -37,7 +37,7 @@
 
 ---
 
-<img align="left" alt="dhirajkhodade's Github Stats" src="https://github-readme-stats.dhirajkhodade.vercel.app/api?username=dhirajkhodade&show_icons=true&hide_border=true" />
+<img align="left" alt="dhirajkhodade's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dhirajkhodade&show_icons=true&hide_border=true" />
 
 [website]: http://www.dontworrygeek.com
 [githubpage]: https://dhirajkhodade.github.io
