@@ -1,7 +1,5 @@
 ### Hi there, I'm [Dhiraj][githubpage] 
 A Full Stack Developer | Cloud Engineer from India, currently working in Tokyo.  
-### - [Tech Addicts][website] 👋
-
 ## I'm Tech Addict | Art Lover | Software Developer !
 - 🔭 I’m currently working on AWS CDK!
 - 🌱 I’m currently learning everything I can 🤣
@@ -28,7 +26,7 @@ A Full Stack Developer | Cloud Engineer from India, currently working in Tokyo.
 
 ---
 
-### 📕 Latest Blog Posts
+### 📕 Latest Blog Posts - [Tech Addicts][website]
 <!-- BLOG-POST-LIST:START -->
 - [What actually Docker is?](http://www.dontworrygeek.com/2020/03/understanding-what-is-docker.html)
 - [CI/CD pipeline for .NET Framework application using Elastic Beanstalk and AWS CDK (Code as Infrastructure) ](http://www.dontworrygeek.com/2020/02/cicd-pipeline-for-net-framework.html)
