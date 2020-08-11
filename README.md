@@ -21,7 +21,6 @@ A Full Stack Developer | Cloud Engineer from India, currently working in Tokyo.
 
 C#, .Net Core, .Net MVC, Web API, SignalR, Docker, AWS CI/CD Code Pipeline, AWS CDK (IaC), AWS CLI, AWS Lambda, Elastic Beanstalk, SQL, NoSQL, JQuery, HTML.
 
-<br />
 ---
 
 ### 📕 Latest Blog Posts - [Tech Addicts][website]
