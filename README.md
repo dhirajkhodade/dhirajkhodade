@@ -9,7 +9,7 @@ A Full Stack Developer | Cloud Engineer from India, currently working in Tokyo.
 ### Connect with me:
 
 [<img align="left" alt="DhirajKhodade" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][githubpage]
-[<img align="left" alt="DhirajKhodade" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][website]
+[<img align="left" alt="DhirajKhodade" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/blogger.svg" />][website]
 [<img align="left" alt="DhirajKhodade | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/quora.svg" />][quora]
 [<img align="left" alt="DhirajKhodade | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="DhirajKhodade | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackoverflow]
@@ -17,9 +17,9 @@ A Full Stack Developer | Cloud Engineer from India, currently working in Tokyo.
 
 <br />
 
-### Languages and Tools:
+### Skills:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
+C#, .Net Core, .Net MVC, Web API, SignalR, Docker, AWS CI/CD Code Pipeline, AWS CDK (IaC), AWS CLI, AWS Lambda, Elastic Beanstalk, SQL, NoSQL, JQuery, HTML.
 
 <br />
 <br />
