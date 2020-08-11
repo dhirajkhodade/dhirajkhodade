@@ -33,6 +33,8 @@
 - [SmartPi - Google Assistant on Raspberry Pi](http://www.dontworrygeek.com/2017/08/smartpi-google-assistant-on-raspberry-pi.html)
 - [Headless Raspberry pi Mini server recipe (short version)](http://www.dontworrygeek.com/2017/04/headless-raspberry-pi-mini-server-recipe.html)
 - [Hosting .NET Core application on Linux with Docker - Noob's way :) ](http://www.dontworrygeek.com/2017/02/hosting-net-core-on-linux-with-docker.html)
+- [Easier way to make C# (i.e. Server side) enums available within javascript (i.e. Client side)](http://www.dontworrygeek.com/2015/06/easier-way-to-make-c-ie-server-side.html)
+- [(C4droid) C/C++ Compiler For Android Devices](http://www.dontworrygeek.com/2012/04/c4droid-cc-compiler-for-android-devices.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
