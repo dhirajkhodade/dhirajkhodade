@@ -1,4 +1,6 @@
-### Hi there, I'm [Dhiraj][githubpage] - [Tech Addicts][website] 👋
+### Hi there, I'm [Dhiraj][githubpage] 
+A Full Stack Developer | Cloud Engineer from India, currently working in Tokyo.  
+### - [Tech Addicts][website] 👋
 
 ## I'm Tech Addict | Art Lover | Software Developer !
 - 🔭 I’m currently working on AWS CDK!
