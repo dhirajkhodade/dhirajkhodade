@@ -14,3 +14,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "http://feeds.feedburner.com/dontworrygeek/uWIR"
+          max_post_count: 7
