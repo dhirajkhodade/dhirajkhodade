@@ -27,10 +27,10 @@ C#, .Net Core, .Net MVC, Web API, SignalR, Docker, AWS CI/CD Code Pipeline, AWS 
 <!-- BLOG-POST-LIST:START -->
 - [Self-Mutating CDK pipeline which has ability to update the very infrastructure that it runs on!](http://www.dontworrygeek.com/2020/08/self-mutating-cdk-pipeline-which-has.html)
 - [What actually Docker is?](http://www.dontworrygeek.com/2020/03/understanding-what-is-docker.html)
-- [CI/CD pipeline for .NET Framework application using Elastic Beanstalk and AWS CDK (Code as Infrastructure) ](http://www.dontworrygeek.com/2020/02/cicd-pipeline-for-net-framework.html)
+- [CI/CD pipeline for .NET Framework application using Elastic Beanstalk and AWS CDK (Code as Infrastructure)](http://www.dontworrygeek.com/2020/02/cicd-pipeline-for-net-framework.html)
 - [SmartPi - Google Assistant on Raspberry Pi](http://www.dontworrygeek.com/2017/08/smartpi-google-assistant-on-raspberry-pi.html)
 - [Headless Raspberry pi Mini server recipe (short version)](http://www.dontworrygeek.com/2017/04/headless-raspberry-pi-mini-server-recipe.html)
-- [Hosting .NET Core application on Linux with Docker - Noob's way :) ](http://www.dontworrygeek.com/2017/02/hosting-net-core-on-linux-with-docker.html)
+- [Hosting .NET Core application on Linux with Docker - Noob's way :)](http://www.dontworrygeek.com/2017/02/hosting-net-core-on-linux-with-docker.html)
 - [Easier way to make C# (i.e. Server side) enums available within javascript (i.e. Client side)](http://www.dontworrygeek.com/2015/06/easier-way-to-make-c-ie-server-side.html)
 <!-- BLOG-POST-LIST:END -->
 
