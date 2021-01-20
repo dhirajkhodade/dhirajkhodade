@@ -3,7 +3,7 @@ A Full Stack Developer | Cloud Engineer from India, currently working in Tokyo.
 ## I'm Tech Addict | Art Lover | Software Developer !
 - 🔭 I’m currently working on AWS CDK!
 - 🌱 I’m currently learning everything I can 🤣
-- 🥅 2020 Goals: Contribute more to github
+- 🥅 2021 Goals: Contribute more to github
 - ⚡ I love to learn new things and follow new technology trends and draw
 
 ### Connect with me:
