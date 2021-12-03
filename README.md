@@ -25,13 +25,12 @@ C#, .Net Core, .Net MVC, Web API, SignalR, Docker, AWS CI/CD Code Pipeline, AWS 
 
 ### 📕 Latest Blog Posts - [Tech Addicts][website]
 <!-- BLOG-POST-LIST:START -->
-- [Self-Mutating CDK pipeline which has ability to update the very infrastructure that it runs on!](https://dontworrygeek.blogspot.com/2020/08/self-mutating-cdk-pipeline-which-has.html)
-- [What actually Docker is?](https://dontworrygeek.blogspot.com/2020/03/understanding-what-is-docker.html)
-- [CI/CD pipeline for .NET Framework application using Elastic Beanstalk and AWS CDK &lpar;Code as Infrastructure&rpar;](https://dontworrygeek.blogspot.com/2020/02/cicd-pipeline-for-net-framework.html)
-- [SmartPi - Google Assistant on Raspberry Pi](https://dontworrygeek.blogspot.com/2017/08/smartpi-google-assistant-on-raspberry-pi.html)
-- [Headless Raspberry pi Mini server recipe &lpar;short version&rpar;](https://dontworrygeek.blogspot.com/2017/04/headless-raspberry-pi-mini-server-recipe.html)
-- [Hosting .NET Core application on Linux with Docker - Noob&#39;s way :&rpar;](https://dontworrygeek.blogspot.com/2017/02/hosting-net-core-on-linux-with-docker.html)
-- [Easier way to make C# &lpar;i.e. Server side&rpar; enums available within javascript &lpar;i.e. Client side&rpar;](https://dontworrygeek.blogspot.com/2015/06/easier-way-to-make-c-ie-server-side.html)
+- [Blockchain explained using C# implementation](https://dhirajkhodade.medium.com/blockchain-explained-using-c-implementation-5482dc980c47?source=rss-2dba3e4b9f7f------2)
+- [How does bitcoin mining work](https://dhirajkhodade.medium.com/how-does-bitcoin-mining-work-b1ffb0ac3142?source=rss-2dba3e4b9f7f------2)
+- [Self-Mutating CDK pipeline which has ability to update the very infrastructure that it runs on!](https://dhirajkhodade.medium.com/self-mutating-cdk-pipeline-which-has-ability-to-update-the-very-infrastructure-that-it-runs-on-cd116e3240e3?source=rss-2dba3e4b9f7f------2)
+- [What actually Docker is?](https://dhirajkhodade.medium.com/what-actually-docker-is-3ecb9ef54d5f?source=rss-2dba3e4b9f7f------2)
+- [CI/CD pipeline for .NET](https://dhirajkhodade.medium.com/ci-cd-pipeline-for-net-8752dac2e21a?source=rss-2dba3e4b9f7f------2)
+- [Easier way to make C# &lpar;i.e.](https://dhirajkhodade.medium.com/easier-way-to-make-c-i-e-e81296b8ec12?source=rss-2dba3e4b9f7f------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
