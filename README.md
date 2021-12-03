@@ -1,9 +1,9 @@
 ### Hi there, I'm [Dhiraj][githubpage] 
 A Full Stack Developer | Cloud Engineer from India, currently working in Tokyo.  
-## I'm Tech Addict | Art Lover | Software Developer !
+## I'm a Technophile | Art Lover | Software Developer !
+- 💻 I'm currently working as full stack developer and AWS cloud engineer building end to end aspects of web applications including DevOps (IaC)
 - 🔭 I’m currently working on AWS CDK!
-- 🌱 I’m currently learning everything I can 🤣
-- 🥅 2021 Goals: Contribute more to github
+- 🥅 2022 Goals: Contribute more to github
 - ⚡ I love to learn new things and follow new technology trends and draw
 
 ### Connect with me:
@@ -23,7 +23,7 @@ C#, .Net Core, .Net MVC, Web API, SignalR, Docker, AWS CI/CD Code Pipeline, AWS 
 
 ---
 
-### 📕 Latest Blog Posts - [Tech Addicts][website]
+### 📕 Latest Blog Posts - [Technophile][website]
 <!-- BLOG-POST-LIST:START -->
 - [Blockchain explained using C# implementation](https://dhirajkhodade.medium.com/blockchain-explained-using-c-implementation-5482dc980c47?source=rss-2dba3e4b9f7f------2)
 - [How does bitcoin mining work](https://dhirajkhodade.medium.com/how-does-bitcoin-mining-work-b1ffb0ac3142?source=rss-2dba3e4b9f7f------2)
@@ -37,7 +37,7 @@ C#, .Net Core, .Net MVC, Web API, SignalR, Docker, AWS CI/CD Code Pipeline, AWS 
 
 <!-- <img align="left" alt="dhirajkhodade's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dhirajkhodade&show_icons=true&hide_border=true" /> -->
 
-[website]: http://www.dontworrygeek.com
+[website]: https://dhirajkhodade.medium.com
 [githubpage]: https://dhirajkhodade.github.io
 [instagram]: https://instagram.com/dhirajkhodade
 [linkedin]: https://linkedin.com/in/dhirajkhodade
