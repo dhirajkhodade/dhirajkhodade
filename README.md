@@ -24,12 +24,13 @@ C#, Python, .Net Core, .Net MVC, Web API, SignalR, Docker, AWS CI/CD Code Pipeli
 
 ### 📕 Latest Blog Posts - [Technophile][website]
 <!-- BLOG-POST-LIST:START -->
+- [AWS CDK: Running Containers on AWS Lambda](https://dhirajkhodade.medium.com/aws-cdk-running-containers-on-aws-lambda-e6f24a81ac1?source=rss-2dba3e4b9f7f------2)
+- [AWS CDK: Serverless API with AWS Lambda Powertools](https://dhirajkhodade.medium.com/aws-cdk-serverless-api-with-aws-lambda-powertools-1eec97af2a32?source=rss-2dba3e4b9f7f------2)
 - [Blockchain explained using C# implementation](https://dhirajkhodade.medium.com/blockchain-explained-using-c-implementation-5482dc980c47?source=rss-2dba3e4b9f7f------2)
 - [How does bitcoin mining work?](https://dhirajkhodade.medium.com/how-does-bitcoin-mining-work-b1ffb0ac3142?source=rss-2dba3e4b9f7f------2)
 - [Self-Mutating CDK pipeline which has ability to update the very infrastructure that it runs on!](https://dhirajkhodade.medium.com/self-mutating-cdk-pipeline-which-has-ability-to-update-the-very-infrastructure-that-it-runs-on-cd116e3240e3?source=rss-2dba3e4b9f7f------2)
 - [What actually Docker is?](https://dhirajkhodade.medium.com/what-actually-docker-is-3ecb9ef54d5f?source=rss-2dba3e4b9f7f------2)
 - [CI/CD pipeline for .NET](https://dhirajkhodade.medium.com/ci-cd-pipeline-for-net-8752dac2e21a?source=rss-2dba3e4b9f7f------2)
-- [Easier way to make C# &lpar;Server side&rpar; enums automatically available at client side-javascript](https://dhirajkhodade.medium.com/easier-way-to-make-c-i-e-e81296b8ec12?source=rss-2dba3e4b9f7f------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
