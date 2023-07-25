@@ -1,9 +1,8 @@
 ### Hi there, I'm [Dhiraj][githubpage] 
-A Full Stack Developer | Cloud Engineer from India, currently working in Tokyo.  
-## I'm a Technophile | Art Lover | Software Developer !
-- 💻 I'm currently working as full stack developer and AWS cloud engineer building end to end aspects of web applications including DevOps (IaC)
-- 🔭 I’m currently working on AWS CDK!
-- 🥅 2022 Goals: Contribute more to github
+A Full Stack Engineer | Cloud Platform Engineer from India, currently working in Tokyo.  
+## I'm a Technophile | Art Lover | Software Engineer !
+- 💻 I'm currently working as full stack engineer and AWS cloud platform engineer with enterprise cloud platform team to automate and develop cloud native applications and workflows and creating common patterns and cloud solutions which can be used by various teams at organisation level.
+- 🔭 I’m currently working on AWS CDK, Python, Typescript, C#!
 - ⚡ I love to learn new things and follow new technology trends and draw
 
 ### Connect with me:
@@ -19,7 +18,7 @@ A Full Stack Developer | Cloud Engineer from India, currently working in Tokyo.
 
 ### Skills:
 
-C#, .Net Core, .Net MVC, Web API, SignalR, Docker, AWS CI/CD Code Pipeline, AWS CDK (IaC), AWS CLI, AWS Lambda, Elastic Beanstalk, SQL, NoSQL, JQuery, HTML.
+C#, Python, .Net Core, .Net MVC, Web API, SignalR, Docker, AWS CI/CD Code Pipeline, AWS CDK (IaC), AWS CLI, AWS Lambda, ECS Fargate, Elastic Beanstalk, SQL, NoSQL, JQuery, HTML.
 
 ---
 
