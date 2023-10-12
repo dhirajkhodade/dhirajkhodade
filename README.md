@@ -1,6 +1,6 @@
 ### Hi there, I'm [Dhiraj][githubpage] 
-A Full Stack Engineer | Cloud Platform Engineer from India, currently working in Tokyo.  
-## I'm a Technophile | Art Lover | Software Engineer !
+A Backend Engineer | Cloud Engineer from India, currently working in Tokyo.  
+## I'm a Software Engineer !
 - 💻 I'm currently working as full stack engineer and AWS cloud platform engineer with enterprise cloud platform team to automate and develop cloud native applications and workflows and creating common patterns and cloud solutions which can be used by various teams at organisation level.
 - 🔭 I’m currently working on AWS CDK, Python, Typescript, C#!
 - ⚡ I love to learn new things and follow new technology trends and draw
